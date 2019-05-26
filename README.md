@@ -1,1 +1,1 @@
-# Contains changs to the Bash Profile to make development easier with Git
+# Contains changes to the Bash Profile to make development easier with Git
